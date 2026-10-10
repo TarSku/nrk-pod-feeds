@@ -12,8 +12,8 @@ podcasts_cfg_file = "podcasts.json"
 filter_teasers = True
 web_url = "https://sindrel.github.io/nrk-pod-feeds"
 
-def get_podcast(podcast_id, season, feeds_dir, ep_count = 10):
-    existing_feed = get_last_feed(feeds_dir, podcast_id)
+def get_podcast(podcast_id, season, feeds_dir, ep_count = 10, feed_id = None):
+    existing_feed = get_last_feed(feeds_dir, feed_id or podcast_id)
 
     last_feed_update = parser.parse("1970-01-01 00:00:01+00:00")
     if existing_feed:
@@ -113,6 +113,9 @@ def get_podcast(podcast_id, season, feeds_dir, ep_count = 10):
         ep_i +=1
 
     episodes_c = len(episodes)
+    if season and season not in ("LATEST_SEASON", "ALL") and feed_id:
+        season_title = next((s["title"] for s in metadata["_links"]["seasons"] if s["name"] == season), season)
+        original_title = f"{original_title}: {season_title}"
     title = f"De {episodes_c} siste fra {original_title}"
     subtitle = f"Uoffisiell feed med de siste {episodes_c} episodene fra podkasten {original_title}. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se {website} for mer informasjon."
 
@@ -147,12 +150,14 @@ if __name__ == '__main__':
         if "episodes" in p:
             ep_count = p["episodes"]
 
-        podcast = get_podcast(podcast_id, podcast_season, feeds_dir, ep_count)
+        feed_id = p.get("feed_id")
+
+        podcast = get_podcast(podcast_id, podcast_season, feeds_dir, ep_count, feed_id)
         if not podcast:
             logging.debug(f"Got empty result when fetching podcast {podcast_id}")
             continue
 
-        write_podcast_xml(feeds_dir, podcast_id, podcast)
+        write_podcast_xml(feeds_dir, feed_id or podcast_id, podcast)
 
     write_feeds_file(feeds_file, podcasts)
     logging.info("Done")
