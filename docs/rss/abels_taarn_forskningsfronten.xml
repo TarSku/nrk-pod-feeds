@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>De 10 siste fra Abels tårn: Forskningsfronten</title>
+    <link>https://sindrel.github.io/nrk-pod-feeds</link>
+    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Abels tårn: Forskningsfronten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/abels_taarn for mer informasjon.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Sat, 10 Oct 2026 08:59:54 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Oct 2026 06:00:00 +0200</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Er gen Z dummere enn sine foreldre?</title>
+      <description><![CDATA[Eller er testene feil? Dessuten, genetiske bomber er rundt deg. Og nytt romteleskop brukes av alle]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/641212df-eff4-463f-9212-dfeff4d63f47_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/641212df-eff4-463f-9212-dfeff4d63f47_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:54</itunes:duration>
+      <pubDate>Wed, 07 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
+    </item>
+    <item>
+      <title>Hjernens hemmelige av/på-knapp</title>
+      <description><![CDATA[Årets nobelpriser i realfag går til hjerneforskning, spøkelsespartikler og speilvendte molekyler]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/d99301c3-6259-4d04-9301-c36259fd0463_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/d99301c3-6259-4d04-9301-c36259fd0463_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:13</itunes:duration>
+      <pubDate>Wed, 07 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA.jpg"/>
+    </item>
+    <item>
+      <title>Smarttelefon fører til færre fødsler</title>
+      <description><![CDATA[Forskere ser en sammenheng. Dessuten, KI må hallusinere mye mer, og en ny katteart er oppdaget]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/50077ba6-5d3c-48d8-877b-a65d3c98d8db_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/50077ba6-5d3c-48d8-877b-a65d3c98d8db_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:11</itunes:duration>
+      <pubDate>Mon, 05 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A.jpg"/>
+    </item>
+    <item>
+      <title>Da OpenAI kuppa matematikken</title>
+      <description><![CDATA[Hva nå, matematiker? Er det bruk for deg lenger? Dette er historien om da OpenAi løste Navier Stokes, et av de sju milleniumsproblemene i matematikk. En hendelse som sendte sjokkbølger gjennom hele feltet, og trolig blir stående igjen som et vannskille i historien. 
+Dette er også historien om en eksistensiell trussel, og om en politisk vekkelse som hjemsøker matematikkens verden.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/9ca5b009-5b28-4047-a5b0-095b28e04755_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/9ca5b009-5b28-4047-a5b0-095b28e04755_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:03</itunes:duration>
+      <pubDate>Mon, 28 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0B59pjE2aHd-m73GNveqCAhzWVxAwFMkcHd0OhVITrrw.jpg"/>
+    </item>
+    <item>
+      <title>Et gjennombrudd i kreftforskning</title>
+      <description><![CDATA[Ny lovende kreftvaksine på veg. Dessuten, slankemedisiner overrasker forskerne. Og Antarktis har til tross for klimakrisa, fått mer is!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/f9f65c4d-2915-49ea-b65c-4d2915b9ead7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/f9f65c4d-2915-49ea-b65c-4d2915b9ead7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:57</itunes:duration>
+      <pubDate>Wed, 23 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA.jpg"/>
+    </item>
+    <item>
+      <title>Se krystallklart i stupmørke</title>
+      <description><![CDATA[Forskere har utviklet nye superbriller. Dessuten, skadde hjerner kan reparere seg selv. Og gode opplevelser gir også bra søvn]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/da7de30b-a076-4b57-bde3-0ba076ab57c2_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/da7de30b-a076-4b57-bde3-0ba076ab57c2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:34</itunes:duration>
+      <pubDate>Mon, 21 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
+    </item>
+    <item>
+      <title>Det finnes en riktig tissevinkel</title>
+      <description><![CDATA[Pissoarteknikk, kakerlakkmelk, og hva truser kan si om jordkvalitet. Ig-Nobel hedrer igjen forskning som først får deg til å le og så tenke]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/fa893938-21f7-4cd4-8939-3821f77cd4f4_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/fa893938-21f7-4cd4-8939-3821f77cd4f4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:02</itunes:duration>
+      <pubDate>Sat, 12 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
+    </item>
+    <item>
+      <title>Enkelt triks skjerper konsentrasjonen</title>
+      <description><![CDATA[Forskere har nemlig studert folks lesevaner. Dessuten ropes det varsko om sopp vi er avhengig av. Og månen vår må også passes på]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/4047cef7-201a-49a4-87ce-f7201ab9a425_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/4047cef7-201a-49a4-87ce-f7201ab9a425_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:06</itunes:duration>
+      <pubDate>Mon, 07 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A.jpg"/>
+    </item>
+    <item>
+      <title>En mobil som reparerer seg selv</title>
+      <description><![CDATA[Er det NASA drømmer om. Dessuten, forsker ville krysse menneske med sjimpanse. Og menneskehjerne har levd flere år på en lab]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/24fcd339-fca6-4332-bcd3-39fca65332de_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/24fcd339-fca6-4332-bcd3-39fca65332de_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:45</itunes:duration>
+      <pubDate>Wed, 02 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA.jpg"/>
+    </item>
+    <item>
+      <title>Vinduet ditt gjør deg syk</title>
+      <description><![CDATA[Det påstår i hvert fall noen forskere. Dessuten, biobatterier erstatter kjernekraftverk og HIV kan bli fullstendig utrydda]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/28ad645a-dd3d-4293-ad64-5add3d7293fe_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/28ad645a-dd3d-4293-ad64-5add3d7293fe_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:24</itunes:duration>
+      <pubDate>Wed, 26 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
+    </item>
+  </channel>
+</rss>

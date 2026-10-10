@@ -18,8 +18,18 @@ const feeds = [
   {
     "id": "abels_taarn",
     "title": "De 10 siste fra Abels tårn",
-    "season": "LATEST_SEASON",
-    "enabled": false
+    "season": null,
+    "enabled": true,
+    "ignore": true
+  },
+  {
+    "id": "abels_taarn",
+    "feed_id": "abels_taarn_forskningsfronten",
+    "title": "De 10 siste fra Abels tårn: Forskningsfronten",
+    "season": "forskningsfronten",
+    "enabled": true,
+    "ignore": true,
+    "hidden": false
   },
   {
     "id": "andakten",
@@ -57,7 +67,8 @@ const feeds = [
     "id": "baade_erlend_og_steinar_",
     "title": "De 10 siste fra Både Erlend og Steinar ",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "ignore": true
   },
   {
     "id": "bakrommet",
@@ -1749,8 +1760,9 @@ const feeds = [
   {
     "id": "verdiboersen",
     "title": "De 10 siste fra Verdibørsen",
-    "season": "LATEST_SEASON",
-    "enabled": false
+    "season": null,
+    "enabled": true,
+    "ignore": true
   },
   {
     "id": "vg3",
