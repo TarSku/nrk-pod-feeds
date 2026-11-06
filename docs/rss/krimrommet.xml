@@ -8,10 +8,37 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 21 Oct 2026 07:33:51 +0000</lastBuildDate>
-    <pubDate>Wed, 21 Oct 2026 06:40:00 +0200</pubDate>
+    <lastBuildDate>Fri, 06 Nov 2026 14:17:53 +0000</lastBuildDate>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9s7r4W9JRoHjl5heQsPeSw2Frscc6THutLMdeUJKXX2A.jpg"/>
+    <item>
+      <title>Halloween-drapet: Flukten</title>
+      <description><![CDATA[En oktobernatt for 15 år siden opplever Marius (22) noe som skal endre livet hans for alltid.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/86e78589-25f1-4ba0-9259-96d38c62ac25_1bf18699-a0a6-4c42-8eef-4e273630d68d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/86e78589-25f1-4ba0-9259-96d38c62ac25_1bf18699-a0a6-4c42-8eef-4e273630d68d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:12</itunes:duration>
+      <pubDate>Wed, 04 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Y500hBxByKqToDgwmX0nLA4_viHNd8_7LovC3rTex1bA.jpg"/>
+    </item>
+    <item>
+      <title>Elizabeth Holmes: Blodig svindel</title>
+      <description><![CDATA[Dokumentaren «You Can See Everything» sprenger stadig nye rekorder i USA – men hva er det egentlig filmens hovedperson har gjort?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/9189ea40-2667-4b9f-b8c0-ba99371f905e_8ec1c463-1d78-488d-920f-a033710df0a7_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/9189ea40-2667-4b9f-b8c0-ba99371f905e_8ec1c463-1d78-488d-920f-a033710df0a7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:15</itunes:duration>
+      <pubDate>Thu, 29 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/95F3PIBQUmoICSYPlF_zMg18oZTVhtcSWs-sw9xZlwwg.jpg"/>
+    </item>
+    <item>
+      <title>Tilsto drap - er han uskyldig?</title>
+      <description><![CDATA[Douglas Carter tilsto å ha drept danske Eva på 80-tallet. Men etter 41 år i fengsel gjør nye DNA-funn at han blir løslatt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/cb29ddf4-a1b8-4499-a8a3-3ff7aee9e0d9_621011eb-918a-42c8-b040-a1655bed7fe2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/cb29ddf4-a1b8-4499-a8a3-3ff7aee9e0d9_621011eb-918a-42c8-b040-a1655bed7fe2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:12</itunes:duration>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/HZvnWSzaP4rcjfwIEVqmswspuC_ffjCsuePwco5Pj71w.jpg"/>
+    </item>
     <item>
       <title>Tenåring dømt: Skulle drepe på bestilling</title>
       <description><![CDATA[19-åringen fra Stavanger ble fjernstyrt av Foxtrot. Nå risikerer han å sitte 20 år i britisk fengsel. ]]></description>
@@ -74,33 +101,6 @@
       <itunes:duration>28:23</itunes:duration>
       <pubDate>Wed, 23 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/C4mP9WtDcjc-L4iGDJ0YpA2xdKYjbYik45936wm8hrbg.jpg"/>
-    </item>
-    <item>
-      <title>Jørn Andersen (3): Forklaringen</title>
-      <description><![CDATA[Jørn Andersen sier han ikke husker kvelden Marita Løfshus Haugen ble drept. Men er det sant?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/92f87710-6ca7-4757-b877-106ca7675799_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/krimrommet/92f87710-6ca7-4757-b877-106ca7675799_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:23</itunes:duration>
-      <pubDate>Wed, 16 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/jlgpNWWNownKIhUUUJ-USw9P6_VofBpEMWRoDCSfl2Lg.jpg"/>
-    </item>
-    <item>
-      <title>Clancy (2): Uløst rettsdrama</title>
-      <description><![CDATA[Rettssaken mot Lindsay Clancy går mot en avslutning. Men så setter ett av jurymedlemmene seg på bakbeina.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/c7e7e50e-8216-4630-a7e5-0e8216c6304b_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/krimrommet/c7e7e50e-8216-4630-a7e5-0e8216c6304b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:53</itunes:duration>
-      <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/p_UcbnpY5gla8fWh5E9t_w8WML-Fd7YNQr3GfJpHUgAw.jpg"/>
-    </item>
-    <item>
-      <title>Clancy (1): Drap eller depresjon?</title>
-      <description><![CDATA[En januardag i 2023 blir tre små barn drept på grusomt vis – i sitt eget hjem. Men kan moren deres straffes for å ha begått drapene?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/1542b4e7-33ea-41e7-82b4-e733ea51e78c_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/krimrommet/1542b4e7-33ea-41e7-82b4-e733ea51e78c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>29:18</itunes:duration>
-      <pubDate>Wed, 02 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/QPx1ddirCoRcgq68TA5AFw4xQvqxgdSD4Z9mtJ7sWj_Q.jpg"/>
     </item>
   </channel>
 </rss>

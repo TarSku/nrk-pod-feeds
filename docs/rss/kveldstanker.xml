@@ -8,10 +8,46 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 21 Oct 2026 07:33:54 +0000</lastBuildDate>
-    <pubDate>Wed, 21 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 06 Nov 2026 14:17:59 +0000</lastBuildDate>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Tradwives - med Gunn Marit Nisja</title>
+      <description><![CDATA[Karriere ute, eller hjemme? Ikke alle kvinner kan velge, forteller forfatteren Gunn Marit Nisja.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/a3ddb278-9482-453c-ae75-e1438e4b2d0a_d96dd49c-17a8-4010-b697-4a6fae5ea6cb_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/a3ddb278-9482-453c-ae75-e1438e4b2d0a_d96dd49c-17a8-4010-b697-4a6fae5ea6cb_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:35</itunes:duration>
+      <pubDate>Wed, 04 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mTK509RkSftPrg2n5FaVngc2T97fS6iQybFe81bD-G0Q.jpg"/>
+    </item>
+    <item>
+      <title>Stillasfilosofi - med Terje Torkildsen</title>
+      <description><![CDATA[Det er mangt en kan tenke på i et stillas, forteller komiker og forfatter Terje Torkildsen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/7f08cc09-e336-4b3b-80c9-eae4cbd5731a_94dbe150-d421-4c8a-8932-889874f80caf_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/7f08cc09-e336-4b3b-80c9-eae4cbd5731a_94dbe150-d421-4c8a-8932-889874f80caf_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:48</itunes:duration>
+      <pubDate>Tue, 03 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MIaaiCXe_AzVkp3CFJ-YoA41qjANNIq2JqgQomYQq87Q.jpg"/>
+    </item>
+    <item>
+      <title>Allehelgensdag - Ola Bremnes</title>
+      <description><![CDATA[Jeg vil minnes mange døde på allehelgensdag, men mest av alt vil jeg tenne et lys for livet, forteller Ola Bremnes]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/69c9bd8c-a2ff-409b-9a4c-06d01d066f72_dc57cfd9-28b9-4af7-b16c-961fd98db1a6_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/69c9bd8c-a2ff-409b-9a4c-06d01d066f72_dc57cfd9-28b9-4af7-b16c-961fd98db1a6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:43</itunes:duration>
+      <pubDate>Wed, 28 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Kv-IQXhH9yhLGWkwFe8DtQahtEaWOlUdS7bZKP-WDEhA.jpg"/>
+    </item>
+    <item>
+      <title>Paraply - med Sigrun Loe Sparboe</title>
+      <description><![CDATA[Det er med folk som med paraplyer, mener Sigrun Loe Sparboe. Det er fort gjort å glemme av dem.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/1737fb13-ab45-4dea-a65a-c8527c0e5938_08ea40fa-8787-40dd-a736-02a8217e32b6_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/1737fb13-ab45-4dea-a65a-c8527c0e5938_08ea40fa-8787-40dd-a736-02a8217e32b6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:05</itunes:duration>
+      <pubDate>Tue, 27 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YKifrZnLK0bkOj4xrHgkjASL_pSlg5mmx7LyQ1xT8a0w.jpg"/>
+    </item>
     <item>
       <title>Har du fyr - med Ola Bremnes</title>
       <description><![CDATA[- Også du kan være et fyrglimt i noen andres liv, husk det, forteller Ola Bremnes]]></description>
@@ -65,42 +101,6 @@
       <itunes:duration>02:29</itunes:duration>
       <pubDate>Wed, 07 Oct 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/X939GbGhjkYdCBR1K3Du1Q-RxV2CoQeE3h6P-VUMk7DA.jpg"/>
-    </item>
-    <item>
-      <title>Skam - med Ann Helen Kolås Ingebrigtsen</title>
-      <description><![CDATA[- Eg har båre på ei skam heile livet, fortel forfattaren Ann Helen Kolås Ingebrigtsen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/930c738f-3790-47a9-af03-b5d7a5c122d7_d3d820f4-8dab-437e-951c-0b53ab266edc_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/930c738f-3790-47a9-af03-b5d7a5c122d7_d3d820f4-8dab-437e-951c-0b53ab266edc_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:50</itunes:duration>
-      <pubDate>Tue, 06 Oct 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/X2COIk2Hv6DH_Z7r5ijDmQN69LbCSFtAo-oo48HGwXvw.jpg"/>
-    </item>
-    <item>
-      <title>Kulde - med Sunniva Relling Berg</title>
-      <description><![CDATA[Litteratur kan viske ut landegrenser, hevder forfatteren Sunniva Relling Berg]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/644e4eb7-6027-45eb-8d8e-36a88e7a90f0_1a429bf7-7f1a-457f-a341-914b1cfc84ee_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/644e4eb7-6027-45eb-8d8e-36a88e7a90f0_1a429bf7-7f1a-457f-a341-914b1cfc84ee_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:20</itunes:duration>
-      <pubDate>Wed, 30 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/z8CIr6NfCmd6o8_LOA9cUQByLqt8xqVPETMGVT3yCmnw.jpg"/>
-    </item>
-    <item>
-      <title>Luftslott - med Gunn Marit Nisja</title>
-      <description><![CDATA[En fiasko kan fort bli en ny vei videre, forteller forfatter Gunn Marit Nisja.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/72efe331-5f54-44aa-84f6-60f1805a06c7_89c759e8-3e1f-4544-98d6-3fef2aef12a3_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/72efe331-5f54-44aa-84f6-60f1805a06c7_89c759e8-3e1f-4544-98d6-3fef2aef12a3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:28</itunes:duration>
-      <pubDate>Tue, 29 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/mTK509RkSftPrg2n5FaVngc2T97fS6iQybFe81bD-G0Q.jpg"/>
-    </item>
-    <item>
-      <title>Si det - med Oda Gravdal Ulriksen</title>
-      <description><![CDATA[- Kan vi bli bedre på å takke dem som betyr noe for oss ? spør Oda Gravdal Ulriksen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/779fd424-d6a3-4fcd-9fd4-24d6a3ffcd3a_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/779fd424-d6a3-4fcd-9fd4-24d6a3ffcd3a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:40</itunes:duration>
-      <pubDate>Wed, 23 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/CLSQ55Dq4GHTo0XmrkRCxQYW344iPOztAez2RDKGc1Kw.jpg"/>
     </item>
   </channel>
 </rss>

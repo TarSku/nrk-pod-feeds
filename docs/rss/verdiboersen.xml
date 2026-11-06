@@ -8,10 +8,58 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 18 Oct 2026 04:26:43 +0000</lastBuildDate>
-    <pubDate>Sun, 18 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 06 Nov 2026 14:18:51 +0000</lastBuildDate>
+    <pubDate>Fri, 06 Nov 2026 13:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    <item>
+      <title> Er vi mennesker eller koder?</title>
+      <description><![CDATA[ Simuleringstargumentet er underlig innflytelsesrikt.
+Særlig liker tech-eliten teorien. Men hvorfor det?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/dab75334-8d77-4838-877c-097d9d15b008_c01389b0-1c97-41a8-b91d-e9c98839ef05_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/dab75334-8d77-4838-877c-097d9d15b008_c01389b0-1c97-41a8-b91d-e9c98839ef05_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:16</itunes:duration>
+      <pubDate>Fri, 06 Nov 2026 13:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    </item>
+    <item>
+      <title>Putin - et førmoderne menneske</title>
+      <description><![CDATA[- Han lever i en verden  der demokratiet, menneskerettene og  det personlige
+ansvaret ikke er oppfunnet, sier historiker.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/194cfe36-a77c-4123-bd03-fbf41de85715_518657e4-72ac-42fb-b34d-1de9ff47a4c6_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/194cfe36-a77c-4123-bd03-fbf41de85715_518657e4-72ac-42fb-b34d-1de9ff47a4c6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:17</itunes:duration>
+      <pubDate>Thu, 05 Nov 2026 11:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    </item>
+    <item>
+      <title>En ny Trump kan komme </title>
+      <description><![CDATA[Normalen er borte, sier historiker. Vi snakker om USA og Europa. Hva truer demokratiet og hvorfor?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/ecb8940f-40d0-4412-a1c4-e25a0b4b0672_9f19ffe1-ba60-413b-8e91-a3bc2638e482_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/ecb8940f-40d0-4412-a1c4-e25a0b4b0672_9f19ffe1-ba60-413b-8e91-a3bc2638e482_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:05</itunes:duration>
+      <pubDate>Wed, 28 Oct 2026 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    </item>
+    <item>
+      <title>Stadig mer vann og mat i boden</title>
+      <description><![CDATA[Før skulle vi greie oss selv i 48 timer. Nå er det en uke. Skjer det en ansvarsforskyvning  fra stat til borger? ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/cd2517ad-9d65-40eb-8a3d-c89005eac7ca_b28ee8a6-1ea1-4972-8625-92344ed99ab0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/cd2517ad-9d65-40eb-8a3d-c89005eac7ca_b28ee8a6-1ea1-4972-8625-92344ed99ab0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:05</itunes:duration>
+      <pubDate>Tue, 27 Oct 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    </item>
+    <item>
+      <title>Lærdommer  fra 8. april 1940</title>
+      <description><![CDATA[8.april 1940 var en ganske vanlig dag i Norge. Hva kan vi lære av det?
+Et bidrag  til P2s beredskapsdag]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/14f4fab9-fdba-4bcf-aa0f-ed7a0415f97b_78466f20-1116-4f2a-b13e-95434845a952_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/14f4fab9-fdba-4bcf-aa0f-ed7a0415f97b_78466f20-1116-4f2a-b13e-95434845a952_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>09:03</itunes:duration>
+      <pubDate>Mon, 26 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    </item>
     <item>
       <title> Gjentar tysk historie seg?</title>
       <description><![CDATA[AfD stormer fram. Nå trekkes paralleller til Weimar og 1932]]></description>
@@ -56,51 +104,6 @@
       <itunes:duration>15:37</itunes:duration>
       <pubDate>Mon, 05 Oct 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
-    </item>
-    <item>
-      <title>Russland skremmer Europa</title>
-      <description><![CDATA[Hva er det russerne egentlig vil?  Er det et budskap?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/ceae0174-0736-4c5f-ae01-7407363c5fbd_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/ceae0174-0736-4c5f-ae01-7407363c5fbd_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:06</itunes:duration>
-      <pubDate>Fri, 02 Oct 2026 10:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
-    </item>
-    <item>
-      <title>Ondskapens banalitet</title>
-      <description><![CDATA[1961 fulgte filosofen Hannah Arendt rettssaken mot SS-offiseren Adolf Eichmann. Her så hun  "ondskapens banalitet"]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/9adc8586-7cea-473a-9c85-867cea573a81_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/9adc8586-7cea-473a-9c85-867cea573a81_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>11:10</itunes:duration>
-      <pubDate>Thu, 01 Oct 2026 12:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
-    </item>
-    <item>
-      <title>Hvorfor velge KI-kjæreste!</title>
-      <description><![CDATA[- og hvorfor ikke!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/ccf35a5b-9cad-43e3-b35a-5b9cad53e356_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/ccf35a5b-9cad-43e3-b35a-5b9cad53e356_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>25:57</itunes:duration>
-      <pubDate>Fri, 25 Sep 2026 18:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
-    </item>
-    <item>
-      <title>Aldri mer 9. april</title>
-      <description><![CDATA[Hvorfor var Norge så dårlig forberedt på krig? Vi snakker om året 1939- og hvordan man tenkte]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/9533c49c-4cfd-430f-b3c4-9c4cfdd30fae_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/9533c49c-4cfd-430f-b3c4-9c4cfdd30fae_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:40</itunes:duration>
-      <pubDate>Thu, 24 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/i1WzEThKKSqlDfT3FvPShwuD6_oHkEY5qrfwV9dtocIg.jpg"/>
-    </item>
-    <item>
-      <title>Hva var det med tyskerne?</title>
-      <description><![CDATA[Historikeren svarer på spørsmål fra lytterne om Det tredje riket. Om krigen og Holocaust - og lever vi nå i en ny mellomkrigstid?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/18a822e4-8afb-4a7c-a822-e48afb5a7c10_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/18a822e4-8afb-4a7c-a822-e48afb5a7c10_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:10</itunes:duration>
-      <pubDate>Fri, 18 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/D5KcsVd8Rr4TmJHLJr-1IgtpwD7AarVB2gSas_1biXUQ.jpg"/>
     </item>
   </channel>
 </rss>
