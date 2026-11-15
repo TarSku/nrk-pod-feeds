@@ -1,4 +1,13 @@
 # Podcast Discovery Changelog  
+### 2026-11-15  
+- Updated podcast 'Hallo Bablo' (`hallo_bablo`)  
+- Updated podcast 'Hele historien' (`hele_historien`)  
+- Updated podcast 'Historiske kjendiser' (`historiske_kjendiser`)  
+- Updated podcast 'Kompass' (`kompass`)  
+- Updated podcast 'Kringkastingsorkestret ' (`kringkastingsorkestret_`)  
+- Updated podcast 'Skiklubben' (`skiklubben`)  
+- Added podcast 'Venner som møtes ukentlig' (`venner_som_moetes_ukentlig`)  
+- Podcast 'Vittig' is considered obsolete and will be ignored in the future (`vittig`)  
 ### 2026-10-16  
 - Updated podcast 'Kringkastingsorkestret ' (`kringkastingsorkestret_`)  
 ### 2026-10-10  

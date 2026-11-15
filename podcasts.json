@@ -475,7 +475,7 @@
         "id": "hallo_bablo",
         "title": "De 10 siste fra Hallo Bablo",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "harald_v",
@@ -503,7 +503,7 @@
         "id": "hele_historien",
         "title": "De 10 siste fra Hele historien",
         "season": "LATEST_SEASON",
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "herreavdelingen",
@@ -517,7 +517,7 @@
         "id": "historiske_kjendiser",
         "title": "De 10 siste fra Historiske kjendiser",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "hoera",
@@ -719,7 +719,7 @@
         "id": "kompass",
         "title": "De 10 siste fra Kompass",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "kongerekka",
@@ -771,7 +771,7 @@
         "id": "kringkastingsorkestret_",
         "title": "De 10 siste fra Kringkastingsorkestret ",
         "season": "LATEST_SEASON",
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "kroppen",
@@ -1403,7 +1403,7 @@
         "id": "skiklubben",
         "title": "De 10 siste fra Skiklubben",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "skitprat",
@@ -1736,6 +1736,12 @@
         "enabled": true
     },
     {
+        "id": "venner_som_moetes_ukentlig",
+        "title": "De 10 siste fra Venner som møtes ukentlig",
+        "season": null,
+        "enabled": true
+    },
+    {
         "id": "verden_paa_loerdag",
         "title": "De 10 siste fra Urix på lørdag",
         "season": null,
@@ -1784,7 +1790,9 @@
         "id": "vittig",
         "title": "De 10 siste fra Vittig",
         "season": null,
-        "enabled": false
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
     },
     {
         "id": "westworld-podden",
