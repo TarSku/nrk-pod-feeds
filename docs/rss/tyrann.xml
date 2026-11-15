@@ -1,50 +1,39 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 3 siste fra Tyrann</title>
+    <title>De 2 siste fra Tyrann</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 2 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 10 Oct 2026 07:10:33 +0000</lastBuildDate>
-    <pubDate>Sat, 10 Oct 2026 06:02:00 +0200</pubDate>
+    <lastBuildDate>Sun, 15 Nov 2026 05:21:22 +0000</lastBuildDate>
+    <pubDate>Sat, 14 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mEsD2gjWKWyF0ObWYunN7Aoe3owpZh5t5Nnxik0lcmkg.jpg"/>
     <item>
-      <title>Macías (1:3)</title>
-      <description><![CDATA[På kort tid blir Macías en allmektig, brutal og inkompetent diktator som digger Hitler, samler på kranier og prater med spøkelser.
+      <title>Leopold II</title>
+      <description><![CDATA[Kong Leopold II drømmer om å gjøre Belgia stort og mektig - og seg selv søkkrik. Ambisjonene skal koste millioner av menneskeliv.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/c78b3a27-a92b-402c-aee9-7cf7775b094a_de0bb06b-1047-454c-acab-7a3d94c3014e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/c78b3a27-a92b-402c-aee9-7cf7775b094a_de0bb06b-1047-454c-acab-7a3d94c3014e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:36</itunes:duration>
+      <pubDate>Fri, 13 Nov 2026 12:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_v7zTDvr4OYCnKi8DU-cBAmLLzG73JtV0_-uRniQvm8g.jpg"/>
+    </item>
+    <item>
+      <title>Leopold II (1:6)</title>
+      <description><![CDATA[Kong Leopold II av Belgia studerer kart, planlegger kolonier og leter febrilsk etter et sted i verden han kan gjøre til sitt eget.
 
 Kilder:
-Small Is Not Always Beautiful: The Story of Equatorial Guinea - Max Liniger-Goumaz (C Hurst & Co Publishers Ltd, 1989)
-Equatorial Guinea: An African Tragedy - Randall Fegley (Peter Lang Inc., 1989)
-El Sexo y la Violencia: El Caso de Macías Nguema Biyogo - Enènge Á Bodjedi (2009)
-Equatorial Guinea: Macías Country – The Forgotten Refugees - Robert af Klinteberg (IUEF, 1978)
-The Trial of Macías in Equatorial Guinea: The Story of a Dictatorship - Alejandro Artucio (ICJ, 1979)]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/5ddc4075-2383-4ea9-9c40-7523830ea914_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/5ddc4075-2383-4ea9-9c40-7523830ea914_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:35</itunes:duration>
-      <pubDate>Sat, 10 Oct 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/W1_dRT3YisJOs1MtDvnlcAXvsWQFP1gCzuTk-pUerrFQ.jpg"/>
-    </item>
-    <item>
-      <title>Macías (2:3)</title>
-      <description><![CDATA[Macías kaller seg selv Gud og vil ha spanjoler og folk med utdannelse fjernet fra Ekvatorial-Guinea. Så starter massehengningene.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/31223085-a9fd-4ba7-a230-85a9fd2ba7a0_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/31223085-a9fd-4ba7-a230-85a9fd2ba7a0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:02</itunes:duration>
-      <pubDate>Sat, 10 Oct 2026 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/W1_dRT3YisJOs1MtDvnlcAXvsWQFP1gCzuTk-pUerrFQ.jpg"/>
-    </item>
-    <item>
-      <title>Macías(3:3)</title>
-      <description><![CDATA[Macías hører stemmer, men får ikke hjelp, så da må skrekkregimet hans bare fortsette. Helt til han starter å true sin egen familie.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/213f97a2-1b09-49f3-bf97-a21b0969f3f9_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/213f97a2-1b09-49f3-bf97-a21b0969f3f9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>38:12</itunes:duration>
-      <pubDate>Sat, 10 Oct 2026 06:02:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/W1_dRT3YisJOs1MtDvnlcAXvsWQFP1gCzuTk-pUerrFQ.jpg"/>
+Kong Leopolds arv; Adam Hochschild (Pax, 2005)
+Kongo - Historien om Afrikas hjerte; David Van Reybrouck (Font forlag, 2011)
+Historienet.dk: “Belgiens konge dræbte 10 millioner” og “Deres styre står for svindel, røveri og mord”]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/d430b3ae-4434-4346-90ba-3436339cc9b9_e64d8d2b-e24f-4c82-9d6f-455432bd270c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/d430b3ae-4434-4346-90ba-3436339cc9b9_e64d8d2b-e24f-4c82-9d6f-455432bd270c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:50</itunes:duration>
+      <pubDate>Sat, 14 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_v7zTDvr4OYCnKi8DU-cBAmLLzG73JtV0_-uRniQvm8g.jpg"/>
     </item>
   </channel>
 </rss>

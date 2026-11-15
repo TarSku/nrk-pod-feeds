@@ -8,10 +8,48 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 06 Nov 2026 14:18:11 +0000</lastBuildDate>
-    <pubDate>Fri, 06 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 15 Nov 2026 05:20:51 +0000</lastBuildDate>
+    <pubDate>Fri, 13 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    <item>
+      <title>Runkesirkel</title>
+      <description><![CDATA[Velkommen til nostalgi om runkesirkler, svarte kondomer og ødelagte tepperensere!
+Abu er på desperat jakt etter sin eneste DJ-minnepenn og når unge menn looksmaxxer svarer gutta med med et bedre ideal: Blomstermaxxing. 
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/caf6d1bc-942b-4945-90b1-87b87cac4315_cfa49fc1-f17e-48bf-8834-a51e67848f57_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/caf6d1bc-942b-4945-90b1-87b87cac4315_cfa49fc1-f17e-48bf-8834-a51e67848f57_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:59</itunes:duration>
+      <pubDate>Fri, 13 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>Tilsynelatende muslim</title>
+      <description><![CDATA[Men Abu måtte allikevel selge baconpølse. Kan kokker nekte å legge ananas på pizza? Vi elsker 90-tallet! Hva er Taras nye oppheng?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/4a9df39c-7cd0-4322-990c-6aa73e71fdb0_af6d9ad3-d395-41dc-98c1-23bb43e09271_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/4a9df39c-7cd0-4322-990c-6aa73e71fdb0_af6d9ad3-d395-41dc-98c1-23bb43e09271_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:53</itunes:duration>
+      <pubDate>Thu, 12 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>– Short kings er litt psykopater</title>
+      <description><![CDATA[Tara sin sosiolekt har endret seg, med et snev av fylleangst. Rinnan var ikke bare en landsforræder, han var også utro, dobbelt svik!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/c8cb963b-cf2f-4ad0-bd87-976f1001e88c_38f25410-f140-45f8-9de1-6634d6a8f911_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/c8cb963b-cf2f-4ad0-bd87-976f1001e88c_38f25410-f140-45f8-9de1-6634d6a8f911_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:42</itunes:duration>
+      <pubDate>Wed, 11 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>Mus i hus</title>
+      <description><![CDATA[Tre voksne menn klarer ikke å si "mus" uten å fnise. Vi hjelper en lytter med et meget pikant problem. Alon tester vitser.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/01dbed29-e596-441c-98af-c430fba0f45e_b1c62ff5-6afd-4008-afba-1ae15f8e9072_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/01dbed29-e596-441c-98af-c430fba0f45e_b1c62ff5-6afd-4008-afba-1ae15f8e9072_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:46</itunes:duration>
+      <pubDate>Tue, 10 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
     <item>
       <title>Vi trenger ikke å slåss!</title>
       <description><![CDATA[Når en prest banker opp en innbruddstyv og roper «vi trenger ikke å slåss!», må gjengen bare innrømme det: Dette er innafor.
@@ -67,42 +105,6 @@ Abu forklarer også hvorfor du bør ha sykkellås på tøflene i moskeen.
       <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/50466b6c-ce5f-4897-acb0-dd93f50e41b9_d5e77cba-a19e-49c5-967a-6deea3d8d611_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>27:33</itunes:duration>
       <pubDate>Thu, 29 Oct 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
-    </item>
-    <item>
-      <title>Baconpølse i helvete</title>
-      <description><![CDATA[Tara har havnet dypt nedi det parasosiale ormehullet rundt utroskapsskandalen i «H3 Podcast», noe som leder gjengen inn på egne kriser: Hva gjør vi om podkasten ryker?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/96976784-3b4f-450f-a28a-d90f9fbe29d6_3cd08c67-8843-4931-bf5b-27a217474d39_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/96976784-3b4f-450f-a28a-d90f9fbe29d6_3cd08c67-8843-4931-bf5b-27a217474d39_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:50</itunes:duration>
-      <pubDate>Wed, 28 Oct 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
-    </item>
-    <item>
-      <title>Den verste dagen i uka</title>
-      <description><![CDATA[Hvorfor er det tirsdag? Vi hjelper far og sønn i trassrådet. Og legger oss helt flate. Eller gjør vi egentlig det...]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/75417e52-ba66-4a4c-9387-4318c7de9c4f_37aadd8d-be2f-4fca-a2d3-f798935001f7_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/75417e52-ba66-4a4c-9387-4318c7de9c4f_37aadd8d-be2f-4fca-a2d3-f798935001f7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:17</itunes:duration>
-      <pubDate>Tue, 27 Oct 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
-    </item>
-    <item>
-      <title>Høytiden for MeToo </title>
-      <description><![CDATA[Tara har møtt en trollmann på trikken. Vi nærmer oss sesongen MeeToo, må vi bytta navn på «julebord?» Anders har store nyheter!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/020eba38-fce2-49d9-bd4c-e1b82cb8ef9d_090bd479-812a-4955-ba17-124cb99ba7b9_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/020eba38-fce2-49d9-bd4c-e1b82cb8ef9d_090bd479-812a-4955-ba17-124cb99ba7b9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:08</itunes:duration>
-      <pubDate>Fri, 23 Oct 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
-    </item>
-    <item>
-      <title>Familiehat i arv</title>
-      <description><![CDATA[Hvorfor går familiekonflikter i arv? Hvor syk må en hund være for å bli avlivet? Og vi har fått utegående reportere!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/90059808-38f9-4a9d-beea-9835caf8f427_3a782aaf-f8ca-49b7-80e0-b2535953b817_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/90059808-38f9-4a9d-beea-9835caf8f427_3a782aaf-f8ca-49b7-80e0-b2535953b817_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>38:56</itunes:duration>
-      <pubDate>Thu, 22 Oct 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
     </item>
   </channel>

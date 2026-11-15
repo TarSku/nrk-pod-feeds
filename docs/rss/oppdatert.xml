@@ -8,10 +8,64 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 06 Nov 2026 14:18:17 +0000</lastBuildDate>
-    <pubDate>Fri, 06 Nov 2026 05:59:00 +0100</pubDate>
+    <lastBuildDate>Sun, 15 Nov 2026 05:20:57 +0000</lastBuildDate>
+    <pubDate>Fri, 13 Nov 2026 05:59:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Angrepsbølge: Slik hackes blodbanker og kjøleskap</title>
+      <description><![CDATA[Smarte hjem, sårbare systemer. Har cyberangrepene avslørt hvor utsatt teknologien har gjort oss?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/48aa5a14-9b6c-427d-adc7-8c00e310757b_8cf36dbb-aac5-4527-842b-0e1e2adaaf76_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/48aa5a14-9b6c-427d-adc7-8c00e310757b_8cf36dbb-aac5-4527-842b-0e1e2adaaf76_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:32</itunes:duration>
+      <pubDate>Fri, 13 Nov 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oeeI9hwAbNU1QjhiT6RhbAiwY4AwOW8AUi3S61FrPTCg.jpg"/>
+    </item>
+    <item>
+      <title>Nyland: Fra helt til syndebukk?</title>
+      <description><![CDATA[Han reddet Norge i VM, men i Nasjonsligaen har det stormet rundt keeperen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/8110c368-d5ad-4aea-805e-9d14c41218bf_55cf8649-70e5-4ddb-b7ad-fa53556616c4_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/8110c368-d5ad-4aea-805e-9d14c41218bf_55cf8649-70e5-4ddb-b7ad-fa53556616c4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:00</itunes:duration>
+      <pubDate>Thu, 12 Nov 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Oc_5rRwn8N5F-xbm0JdR4wz9VnOI1eeeBa4SjxUOYwwQ.jpg"/>
+    </item>
+    <item>
+      <title>«Alle» lurte Rasmus: TV-stuntet som ryster Danmark</title>
+      <description><![CDATA[Slik ble skjult kamera til skandale. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/8ba55a63-c079-48dd-9758-2471afad57a3_34b19abb-88f4-41f2-aa0b-bc6ccb6e8279_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/8ba55a63-c079-48dd-9758-2471afad57a3_34b19abb-88f4-41f2-aa0b-bc6ccb6e8279_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:15</itunes:duration>
+      <pubDate>Wed, 11 Nov 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yHAb5OENBlo0UUDfEOgSTAwStqWecnj0CGqd-zPLiXJQ.jpg"/>
+    </item>
+    <item>
+      <title>Flybase-mysteriet: Utenlandsk angrep på England?</title>
+      <description><![CDATA[Hva skjedde på den engelske flybasen, RAF Fairford, og var det en fremmed makt som stod bak?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/0008c267-a2f8-4a45-9724-48201e15829e_7c8a9cf4-a550-4839-ba2e-43f2524f08a8_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/0008c267-a2f8-4a45-9724-48201e15829e_7c8a9cf4-a550-4839-ba2e-43f2524f08a8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:40</itunes:duration>
+      <pubDate>Tue, 10 Nov 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BJ3oX3NEFD-wVEquxfvg1wqxwFVmycZxDDK6_ExFxs6A.jpg"/>
+    </item>
+    <item>
+      <title>Trumps nye sjef: Derfor er Miller kontroversiell</title>
+      <description><![CDATA[Han er arkitekten bak ICE og Trumps innvandringspolitikk. Hvem er egentlig Stephen Miller?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/b05120e9-cf93-46f2-b1b5-03acccf27f8a_4821ebe1-8855-4506-ac95-9125f7aa216f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/b05120e9-cf93-46f2-b1b5-03acccf27f8a_4821ebe1-8855-4506-ac95-9125f7aa216f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:29</itunes:duration>
+      <pubDate>Mon, 09 Nov 2026 16:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SCr8TC4-9bp2frxOBcDoFA3wB3CCEv1Yqqq-wc8H37Ow.jpg"/>
+    </item>
+    <item>
+      <title>Sviktet Norge: Slik vervet nazistene massemorderen</title>
+      <description><![CDATA[Henry Rinnan gikk fra å kjempe for Norge, til å jakte ned, torturere og drepe norske motstandsfolk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/01c5e6af-2fad-4743-9b6d-6fbb930185ae_54e29bdd-8a04-47d4-8fa0-9efbf74ece5c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/01c5e6af-2fad-4743-9b6d-6fbb930185ae_54e29bdd-8a04-47d4-8fa0-9efbf74ece5c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:41</itunes:duration>
+      <pubDate>Mon, 09 Nov 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/a7E3grvuyi1LTQ1Ljk7ZjQkM3Ema0GlVZb1-11GW-uXQ.jpg"/>
+    </item>
     <item>
       <title>Fanget av «764»: Fra internettsekt til terrorskole</title>
       <description><![CDATA[Hvordan blir norske barn ned i 10-årsalderen tvunget til å begå ekstrem vold?]]></description>
@@ -40,67 +94,13 @@
       <itunes:image href="https://gfx.nrk.no/c6DkD6hQ0IEc8bl8kS1xBA9M1XnZ-LHtVKjcUMbzO7fg.jpg"/>
     </item>
     <item>
-      <title>Derfor tok gaming over Hollywood</title>
-      <description><![CDATA[Filmer basert på dataspill ble lenge ansett som søppel: Hvem er mannen bak historiens mest kritikerroste gamingfilm?]]></description>
+      <title>Slik tok gaming over Hollywood</title>
+      <description><![CDATA[Filmer basert på dataspill ble lenge ansett som søppel. Hvem er mannen bak historiens mest kritikerroste gamingfilm?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/ba00618d-4014-4aa0-b095-02f8a5b51bd0_793d3e7c-914d-4679-858d-9ae8420546c8_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/oppdatert/ba00618d-4014-4aa0-b095-02f8a5b51bd0_793d3e7c-914d-4679-858d-9ae8420546c8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>15:57</itunes:duration>
       <pubDate>Tue, 03 Nov 2026 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/eK-HNl359cZCwXUHqIVzRQqpP4W1vLQEcso_5Q39FwAg.jpg"/>
-    </item>
-    <item>
-      <title>Før Trump: Slik skapte de MAGA</title>
-      <description><![CDATA[Mange tror Trump skapte bevegelsen. Men ideologien ble skapt for flere tiår siden. Kan dagens Maga overleve uten Trump?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/b5a54a22-ef2a-4739-a34d-900ca0257287_cbc010ec-390f-4798-b4db-36c8c818dcac_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/b5a54a22-ef2a-4739-a34d-900ca0257287_cbc010ec-390f-4798-b4db-36c8c818dcac_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>22:17</itunes:duration>
-      <pubDate>Mon, 02 Nov 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ueqMkdo8e6E3yIqMy8iUCw6rpQG5c7sXsYcib4ou7s9A.jpg"/>
-    </item>
-    <item>
-      <title>Transkamp i Kongressen: Slik ble hun historisk</title>
-      <description><![CDATA[Demokraten Sarah McBrides har stått i hardt vær som den første transpersonen i Kongressen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/f6c97d46-0fe5-49c3-ace2-abada10e881d_feafbcf5-62e2-4f49-843a-67abb602aeca_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/f6c97d46-0fe5-49c3-ace2-abada10e881d_feafbcf5-62e2-4f49-843a-67abb602aeca_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>18:46</itunes:duration>
-      <pubDate>Fri, 30 Oct 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/5J2XbL6YhwFKxuyj_e6f2wrl5jn-SXjPvv456YQS00Ww.jpg"/>
-    </item>
-    <item>
-      <title>Drap i feeden: Slik gikk journalistene «undercover»</title>
-      <description><![CDATA[NRK og Faktisk.no ble tilbudt drapsoppdrag av kriminelle nettverk når de undersøkte hvordan unge rekrutteres.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/c87b1fc7-c9b1-4a79-a966-4deae94da2cc_3d315392-d5f7-4254-9f67-4bfa8872c811_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/c87b1fc7-c9b1-4a79-a966-4deae94da2cc_3d315392-d5f7-4254-9f67-4bfa8872c811_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>18:59</itunes:duration>
-      <pubDate>Thu, 29 Oct 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/7v-oG4U2T2GmjpDYKzoHBA-nfkcywRytR5pMEeX5g5Qg.jpg"/>
-    </item>
-    <item>
-      <title>Derfor raser Ungarns statsminister mot NRK</title>
-      <description><![CDATA[Plutselig ble en NRK-korrespondent den store nyhetssaken i Ungarn. Hva skjedde?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/84f4f22e-755b-4d43-b216-383726d5c9db_e98e3bae-8876-4e45-bc7a-a34c4f8c6731_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/84f4f22e-755b-4d43-b216-383726d5c9db_e98e3bae-8876-4e45-bc7a-a34c4f8c6731_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:08</itunes:duration>
-      <pubDate>Wed, 28 Oct 2026 15:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/JNjAdpT0ytbMNiexGEs87QjnZuyfMWNATa0N2VrdweOA.jpg"/>
-    </item>
-    <item>
-      <title>Studentseier i Serbia: Slik styrtet de Putins venn</title>
-      <description><![CDATA[De klarte å ta makten fra den mektige presidenten. Nå skal studentene styre landet selv.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/5c86db01-a3d2-46c7-bdbc-f5c2868f4092_63abd6d6-acee-472f-9ade-ca05f547f73c_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/5c86db01-a3d2-46c7-bdbc-f5c2868f4092_63abd6d6-acee-472f-9ade-ca05f547f73c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>21:02</itunes:duration>
-      <pubDate>Wed, 28 Oct 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/HE65TQwS1VulpTnBjgnFzwHrHe4aBpzKn8u9Ukg9OMYA.jpg"/>
-    </item>
-    <item>
-      <title>Norsk trøbbel i Chile: Millarays kamp mot statkraft</title>
-      <description><![CDATA[Millaray Huichalaf har kjempa i over 15 for å redda heilage område i Chile. No vil ho ha norsk selskap ut av landet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/ec7d3501-9b66-4d80-bd35-019b66ed80a4_682ae86b-12db-4d2d-9816-e585b06e17fd_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/ec7d3501-9b66-4d80-bd35-019b66ed80a4_682ae86b-12db-4d2d-9816-e585b06e17fd_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>13:56</itunes:duration>
-      <pubDate>Tue, 27 Oct 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/iDD9vAyY9wdXi_aToJ6NsgxcM9FxM0LZFnPVG4vORb8w.jpg"/>
     </item>
   </channel>
 </rss>

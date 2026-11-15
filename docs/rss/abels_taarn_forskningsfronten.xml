@@ -8,10 +8,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 06 Nov 2026 14:17:02 +0000</lastBuildDate>
-    <pubDate>Sat, 31 Oct 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 15 Nov 2026 05:19:40 +0000</lastBuildDate>
+    <pubDate>Wed, 11 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Kjipt med jetlag?</title>
+      <description><![CDATA[Da vet du hvordan trekkfuglene har det. Dessuten, Edderkopper har rem-søvn, og noe rart skjer med transplanterte eggstokker
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/fd39fb7f-aa41-47d8-9df6-22f178e840ad_dc80720b-d874-4f52-8892-bb029d505152_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/fd39fb7f-aa41-47d8-9df6-22f178e840ad_dc80720b-d874-4f52-8892-bb029d505152_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:07</itunes:duration>
+      <pubDate>Wed, 11 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA.jpg"/>
+    </item>
+    <item>
+      <title>Demokrati er umulig</title>
+      <description><![CDATA[Formelen går ikke opp. Dessuten, Hitlers DNA er analysert, og Van Goghs "Stjernenatt"
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/0258e404-5a58-424c-861d-fc0cbf6f0905_f9cc13c5-cce9-4f42-8577-ae7106c15fc3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/0258e404-5a58-424c-861d-fc0cbf6f0905_f9cc13c5-cce9-4f42-8577-ae7106c15fc3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:17</itunes:duration>
+      <pubDate>Mon, 09 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A.jpg"/>
+    </item>
     <item>
       <title>Ikke spis kompisen din!</title>
       <description><![CDATA[Kannibalisme er en dårlig idé, har forskere funnet ut. Dessuten, DNA'et ditt er fullt av feil, og glasstriks er endelig avslørt]]></description>
@@ -85,24 +105,6 @@
       <itunes:duration>25:54</itunes:duration>
       <pubDate>Wed, 07 Oct 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
-    </item>
-    <item>
-      <title>Hjernens hemmelige av/på-knapp</title>
-      <description><![CDATA[Årets nobelpriser i realfag går til hjerneforskning, spøkelsespartikler og speilvendte molekyler]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/d99301c3-6259-4d04-9301-c36259fd0463_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/d99301c3-6259-4d04-9301-c36259fd0463_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:13</itunes:duration>
-      <pubDate>Wed, 07 Oct 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA.jpg"/>
-    </item>
-    <item>
-      <title>Smarttelefon fører til færre fødsler</title>
-      <description><![CDATA[Forskere ser en sammenheng. Dessuten, KI må hallusinere mye mer, og en ny katteart er oppdaget]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/50077ba6-5d3c-48d8-877b-a65d3c98d8db_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/50077ba6-5d3c-48d8-877b-a65d3c98d8db_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:11</itunes:duration>
-      <pubDate>Mon, 05 Oct 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A.jpg"/>
     </item>
   </channel>
 </rss>

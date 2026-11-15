@@ -8,10 +8,55 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 06 Nov 2026 14:18:28 +0000</lastBuildDate>
-    <pubDate>Fri, 06 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 15 Nov 2026 05:21:10 +0000</lastBuildDate>
+    <pubDate>Fri, 13 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Daniel intervjuer Alex Rosén</title>
+      <description><![CDATA[Vi kårer Norges beste pub, det er fredag den trettende i Quizvang og Daniel intervjuer Alex Rosén.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/59408f46-fdc8-49b6-bb84-78e8615f0429_9b895ab3-b895-427e-b7ad-5841720ad5c3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/59408f46-fdc8-49b6-bb84-78e8615f0429_9b895ab3-b895-427e-b7ad-5841720ad5c3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:45</itunes:duration>
+      <pubDate>Fri, 13 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tgx9px3lKXxL-MHbbXVoEQSg1gvGjj6fAfsWzwzooeaw.jpg"/>
+    </item>
+    <item>
+      <title>Anna og Daniel krangler </title>
+      <description><![CDATA[Hvor har det blitt av kjeks, vi spiller på slurva og Anna har med sak om godt arbeidsmiljø på Europris i Larvik. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/40fbc74e-51c6-46bb-a42e-f50ac065bead_5ce37d65-42ff-4cf1-ba71-0a844de7154a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/40fbc74e-51c6-46bb-a42e-f50ac065bead_5ce37d65-42ff-4cf1-ba71-0a844de7154a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:15</itunes:duration>
+      <pubDate>Thu, 12 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Daniel er frisk!</title>
+      <description><![CDATA[Daniel er tilbake fra sykdom, det blir singel-quiz fra Ørjan Borre og hva lukter fingeren i dag?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/2cbf5134-6cc4-4477-8220-5bec32dbb9b3_1f78894e-ecd1-4aad-b3e5-7932c2a4d555_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/2cbf5134-6cc4-4477-8220-5bec32dbb9b3_1f78894e-ecd1-4aad-b3e5-7932c2a4d555_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:08</itunes:duration>
+      <pubDate>Wed, 11 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Kald middag er ekkelt </title>
+      <description><![CDATA[Markus spiser tydeligvis kald lasagne, Anna holder to taler i dag og sammen diskuterer vi sjokoladepudding. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/fdd23a66-c5f4-492a-bc29-634e9b4bc523_95f82448-34c8-4302-aece-6ff12c161183_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/fdd23a66-c5f4-492a-bc29-634e9b4bc523_95f82448-34c8-4302-aece-6ff12c161183_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:06</itunes:duration>
+      <pubDate>Tue, 10 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Kva er det motsette av nynorsk?</title>
+      <description><![CDATA[Sofie Johansen er vikar for Daniel,  Markus spiser noe han hater og vi diskuterer nynorsk. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/c78da2e9-dd44-4830-a1bd-8ff91a6fd805_fcd3f18e-0f4b-4e97-8510-6c09a1a1aeb8_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/c78da2e9-dd44-4830-a1bd-8ff91a6fd805_fcd3f18e-0f4b-4e97-8510-6c09a1a1aeb8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:08</itunes:duration>
+      <pubDate>Mon, 09 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Anna intervjuer Ole Soo </title>
       <description><![CDATA[Det blir en ny runde av halloquizvang, hva betyr egentlig piloereksjon og hvordan blir Annas intervju av Ole Soo?]]></description>
@@ -49,57 +94,12 @@
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
     <item>
-      <title>Stem på Norges beste pub her!</title>
+      <title>AVSLUTTET. Stem på Norges beste pub her!</title>
       <description><![CDATA[Her kan du stemme på finalistene til Norges beste pub. Du har en stemme i hver bolk. Avstemningen varer til fredag 13. november klokka 11. Da avsløres finalistene direkte på NRK P3, og en ny avstemning på hvem som vinner kommer. Vinneren blir da avslørt direkte på NRK P3 ca. klokka 12.45. For å stemme må du ha oppdatert nyeste versjon av NRK Radio og en bruker. ]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/54816168-2312-4086-a725-67c5410c2647_4733f702-cdc5-4975-b11f-88c4f6102f1a_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/siesta/54816168-2312-4086-a725-67c5410c2647_4733f702-cdc5-4975-b11f-88c4f6102f1a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>05:40</itunes:duration>
       <pubDate>Tue, 03 Nov 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Vi får kjeft på andre språk </title>
-      <description><![CDATA[Tante Rita ringer Daniel,  hva er det motsatte av kålrabistappe og i ubehag får vi kjeft på tyrkisk og finsk.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/8ec50a5e-ae77-44a9-ba77-00d1a8c72e92_47808a08-9529-4db4-9d24-e0c19138a6ac_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/8ec50a5e-ae77-44a9-ba77-00d1a8c72e92_47808a08-9529-4db4-9d24-e0c19138a6ac_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:13</itunes:duration>
-      <pubDate>Mon, 02 Nov 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Markus intervjuer Desta Beeder</title>
-      <description><![CDATA[Det blir halloquizvang, Markus intervjuer Desta Beeder og vi avslører den aller siste kandidaten i jakten etter Norges beste pub!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/27614619-a145-46cc-8125-dd9c80a54a82_2081153f-7e2b-4888-ac54-1f8d7cd46786_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/27614619-a145-46cc-8125-dd9c80a54a82_2081153f-7e2b-4888-ac54-1f8d7cd46786_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>45:53</itunes:duration>
-      <pubDate>Fri, 30 Oct 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/lJmvK3COPy0HA6IcmQ0I5gnctP_896FNVyVURSJ_6Xqw.jpg"/>
-    </item>
-    <item>
-      <title>Daniel spruter vann på Anna</title>
-      <description><![CDATA[Det rakner fullstendig for Daniel, Markus har kjøpt seg et instrument og hva er verst av en dårlig klem eller et slapt håndtrykk?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/6316827b-96ae-475a-9aea-b35341bdf85a_453a0a41-a433-4459-8770-8c28e1e14249_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/6316827b-96ae-475a-9aea-b35341bdf85a_453a0a41-a433-4459-8770-8c28e1e14249_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:31</itunes:duration>
-      <pubDate>Thu, 29 Oct 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Tegna sin egen porno </title>
-      <description><![CDATA[Anna deler rare ting fra barndommen, sendinga blir avbrutt av selger og Markus forteller om sin nyvoksa ræv.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/4d7d61c4-959a-4755-b642-f9afebca0b92_2b39bc33-8f96-464c-8bc9-544e0ec25ab6_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/4d7d61c4-959a-4755-b642-f9afebca0b92_2b39bc33-8f96-464c-8bc9-544e0ec25ab6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>45:44</itunes:duration>
-      <pubDate>Wed, 28 Oct 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Vi blir hjemsøkt </title>
-      <description><![CDATA[Det kommer et spøkelse i studio, Anna er forbanna på influenser-mødre og hvorfor har ingen telefonsvarer lenger?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/ee709c06-9c23-428b-8a66-eb302eae596f_9a5aeaac-eedf-408f-b3d8-103b91680d6d_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/ee709c06-9c23-428b-8a66-eb302eae596f_9a5aeaac-eedf-408f-b3d8-103b91680d6d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>44:37</itunes:duration>
-      <pubDate>Tue, 27 Oct 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>

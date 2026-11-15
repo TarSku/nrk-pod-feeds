@@ -8,10 +8,39 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 06 Nov 2026 14:17:29 +0000</lastBuildDate>
-    <pubDate>Thu, 05 Nov 2026 12:05:00 +0100</pubDate>
+    <lastBuildDate>Sun, 15 Nov 2026 05:20:09 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Nov 2026 13:10:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Itonje Søimer Guttormsen</title>
+      <description><![CDATA[Filmskaperen var i en gangsterkultur på ungdomsskolen, og så balla det på seg.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/29c30a0f-c5ea-4015-beaf-05002f42f4ab_5b80eb9f-8e84-4f94-aa4e-42a292a4f77e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/29c30a0f-c5ea-4015-beaf-05002f42f4ab_5b80eb9f-8e84-4f94-aa4e-42a292a4f77e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:15</itunes:duration>
+      <pubDate>Thu, 12 Nov 2026 13:10:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/VbtaY1Tj7XMF9MDKzT_2NwC5rAeT6R5oWULhuBc55fPQ.jpg"/>
+    </item>
+    <item>
+      <title>Izabella Dantas Løvstad</title>
+      <description><![CDATA[Influenseren vokste opp med deprimert mor og far i fengsel  ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/05b11937-ccfa-4baf-be57-496077cd4735_cd792e88-6b44-4e1b-8536-d6d0d02a8f4e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/05b11937-ccfa-4baf-be57-496077cd4735_cd792e88-6b44-4e1b-8536-d6d0d02a8f4e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:57</itunes:duration>
+      <pubDate>Wed, 11 Nov 2026 13:45:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/K41gH8OUl7qMieqiqdFtJQEDTZfMxkZi97iK-ik6irqQ.jpg"/>
+    </item>
+    <item>
+      <title>Knut Høibraaten</title>
+      <description><![CDATA[
+_ Bergenspatrioten jukset seg til fotballagent lisens.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/e429b9aa-a1c6-43f5-a0f6-079037b0a713_ecb9c2ba-fe17-4542-80ac-45a05343a9f2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/e429b9aa-a1c6-43f5-a0f6-079037b0a713_ecb9c2ba-fe17-4542-80ac-45a05343a9f2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:29</itunes:duration>
+      <pubDate>Mon, 09 Nov 2026 14:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/lIvh7O1dXCbNiSScplh3Ig0KUgi17wWyQl9k4lNugVvg.jpg"/>
+    </item>
     <item>
       <title>Birgitte Lange</title>
       <description><![CDATA[– Hvor mye kjærlighet kunne jeg finne hos fremmede, undret forfatteren og satte seg ned på en benk for å prate med tilfeldig forbipasserende.]]></description>
@@ -75,33 +104,6 @@
       <itunes:duration>57:10</itunes:duration>
       <pubDate>Tue, 27 Oct 2026 14:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/bfVgVj3rOR6980RWX_qfKA6KrvDgzIg0D2jM-LMIZU5g.jpg"/>
-    </item>
-    <item>
-      <title>Eirik Bergesen</title>
-      <description><![CDATA[– Det kommer til å bli en konstitusjonell krise i USA de neste to årene, mener TV2s USA-ekspert]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/623e2e2d-0db0-4394-b09e-ed875f5ba3af_efbcfb68-2bca-479c-9f82-b9e9dab285c0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/623e2e2d-0db0-4394-b09e-ed875f5ba3af_efbcfb68-2bca-479c-9f82-b9e9dab285c0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:14</itunes:duration>
-      <pubDate>Mon, 26 Oct 2026 14:20:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/EkMy7sOzxzitujOY-94KBg6J1B6WMkcEg2QsmXjIVGqQ.jpg"/>
-    </item>
-    <item>
-      <title>Janne Stigen Drangsholt</title>
-      <description><![CDATA[– Døden er en dårlig oppfinnelse, mener forfatteren, som også er litteraturprofessor ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/1371f54d-2558-4c53-ad0f-cf28dc4961ae_c9dd673b-aa00-4d48-9451-15ffdf06d83b_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/1371f54d-2558-4c53-ad0f-cf28dc4961ae_c9dd673b-aa00-4d48-9451-15ffdf06d83b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:19</itunes:duration>
-      <pubDate>Thu, 22 Oct 2026 13:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/c4EBUp2KGwDaD1lk-_lg7QF3UWruvT0SAn9cgsjK5x3A.jpg"/>
-    </item>
-    <item>
-      <title>Mia Habib</title>
-      <description><![CDATA[– At familien min er fra Israel er noe jeg sjelden sier, forteller den jødiske danseren.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/97558362-c8db-4e26-be60-9ed835730f4e_033eb597-6ad9-4362-9339-bec6f4427c82_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/97558362-c8db-4e26-be60-9ed835730f4e_033eb597-6ad9-4362-9339-bec6f4427c82_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:19</itunes:duration>
-      <pubDate>Wed, 21 Oct 2026 14:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/0q3UvyMkBontjbntla9NagKymPNr5kcfH6E1WUaGB2hw.jpg"/>
     </item>
   </channel>
 </rss>
