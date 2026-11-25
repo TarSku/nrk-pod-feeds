@@ -977,7 +977,9 @@ const feeds = [
     "id": "misforstaa_meg_rett",
     "title": "De 10 siste fra Misforstå meg rett",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "mitt_liv_med_hund",
